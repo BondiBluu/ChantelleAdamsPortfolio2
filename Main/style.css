@@ -1,0 +1,41 @@
+body{}
+
+.navbar{
+    background-color: #f3b0c5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.navbar-heading{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navbar-heading p{
+    font-style: italic;
+}
+
+.navbar-buttons{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-bottom: 20px;
+}
+
+.navbar-buttons button{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: none;
+    width: 130px;
+    height: 35px;
+    border-radius: 25px;
+}
+
+.main-button{
+    background-color: black;
+    color: white;
+}
