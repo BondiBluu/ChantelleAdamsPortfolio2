@@ -12,6 +12,8 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    margin-top: -15px;
+    margin-left: 10px;
 }
 
 .navbar-heading p{
@@ -25,13 +27,12 @@
     margin-bottom: 20px;
 }
 
-.navbar-buttons button{
+.navbar-buttons a{
     text-decoration: none;
+    text-align: center;
     color: black;
     background-color: white;
-    border: none;
-    width: 150px;
-    height: 35px;
+    padding: 13px 50px;
     border-radius: 25px;
 }
 
@@ -41,4 +42,5 @@
 }
 
 /* Main Home Page*/
+
 
