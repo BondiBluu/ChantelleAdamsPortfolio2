@@ -1,4 +1,4 @@
-body{}
+/* Navbar*/
 
 .navbar{
     background-color: #f3b0c5;
@@ -30,12 +30,15 @@ body{}
     color: black;
     background-color: white;
     border: none;
-    width: 130px;
+    width: 150px;
     height: 35px;
     border-radius: 25px;
 }
 
 .main-button{
-    background-color: black;
-    color: white;
+    background-color: black !important;
+    color: white !important;
 }
+
+/* Main Home Page*/
+
